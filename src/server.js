@@ -15,7 +15,7 @@ const clothesRoutes = require("./routes/clothes");
 // app.use
 app.use(express.json());
 app.get("/", (req, res) => {
-  res.status(200).send("The server is working successfully :) ");
+  res.status(200).send("The server is working successfully :) (; ");
 });
 app.use(foodRoutes);
 app.use(clothesRoutes);
