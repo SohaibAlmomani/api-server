@@ -107,3 +107,11 @@ module.exports = router;
 ## - [Action Link](https://github.com/SohaibAlmomani/api-server/actions)
 ## - [Pull requests Link](https://github.com/SohaibAlmomani/api-server/pulls?q=is%3Apr+is%3Aclosed)
 ## - [Heroku Main Deploy](https://sohaib-api-server-main.herokuapp.com/)
+
+# UML Diagram : 
+
+![UML-api-server](./assets/UML-api-server.jpg)
+
+- [Click to Open image UML-api-server](./assets/UML-api-server.jpg)
+
+
